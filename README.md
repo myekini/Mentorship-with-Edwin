@@ -1,7 +1,7 @@
 # 🎓 Private 1:1 Data Science Coaching Program
 
 **Coach:** Muhammad Yekini  
-**Client:** Princess J  
+**Client:** Edwin
 **Duration:** 12 Weeks (Flexible)  
 **Mode:** Remote (UK)
 
